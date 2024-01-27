@@ -1,0 +1,1 @@
+The only thing that isn't completely flawed about the S1 V0.1 prototype is the schematic itself. Most of what you will find here can be used for other devices or be roughly based upon it. Fabrication files are not of any relevance because the PCB I designed doesn't work as intented so should not be made.
