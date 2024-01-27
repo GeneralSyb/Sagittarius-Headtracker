@@ -1,0 +1,1 @@
+Please refer to the PCB schematic PDF to get any sort of information about the S1 V0.1 prototype. The PCB design is flawed and rushed, isn't even complete and shouldn't be considered as something that you should make.
